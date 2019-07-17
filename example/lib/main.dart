@@ -1,6 +1,6 @@
 import 'package:draggable_scrollbar/draggable_scrollbar.dart';
-import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/material.dart';
 
 void main() {
   runApp(DraggableScrollBarDemo(

@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/material.dart';
 
 /// Build the Scroll Thumb and label using the current configuration
 typedef Widget ScrollThumbBuilder(
